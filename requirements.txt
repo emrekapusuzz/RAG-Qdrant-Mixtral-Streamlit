@@ -1,0 +1,12 @@
+langchain
+qdrant_client
+tiktoken
+huggingface_hub
+accelerate
+openai
+python-dotenv
+pypdf
+sentence-transformers
+streamlit
+ctransformers
+langchain-mistralai
